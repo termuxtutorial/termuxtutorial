@@ -14,8 +14,6 @@
 
 ## Installation :
 For Termux :
-* `Termux Khusus Untuk Adnroid`
-* `install dulu kalo belum punya aplikasi termux https://f-droid.org/F-Droid.apk`
 * `apt update`
 * `apt install git curl -y`
 * `git clone https://github.com/termuxtutorial/termuxtutorial.git`
@@ -23,15 +21,22 @@ For Termux :
 * `ls`
 * `bash trackip`
 
+Install Termux :
+* `Termux Khusus Untuk Adnroid`
+* `install dulu kalo belum punya aplikasi termux https://f-droid.org/F-Droid.apk`
+
 Git Bash :
-* `Git Bash Khusus Untuk Pc,Laptop,Cumpoter`
-* `Install Git Bash Dulu`
-* `32 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-32-bit.exe`
-* `64 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe`
 * `git clone https://github.com/termuxtutorial/termuxtutorial.git`
 * `cd termuxtutorial`
 * `ls`
 * `bash trackip`
+
+Install Git Bash :
+* `Git Bash Khusus Untuk Pc,Laptop,Cumpoter`
+* `Install Git Bash Dulu`
+* `32 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-32-bit.exe`
+* `64 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe`
+
 #### > Run : `bash trackip`
 
 ## Single Command Untuk Termux :
@@ -45,6 +50,7 @@ Belum Di Ketahui
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84164408/152337443-a5b361ee-1b29-47d2-91f5-4f75878b52bd.png"/>
+<img src="https://user-images.githubusercontent.com/84164408/152340515-48b1c4a1-7146-4302-bae4-8545b5ef3179.png"/>
 
 ### <<< Jika Ada Masalah Atau Bug DM Aku Aja >>>
 
