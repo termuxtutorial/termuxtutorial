@@ -49,8 +49,8 @@ Belum Di Ketahui
 ```
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/84164408/152337443-a5b361ee-1b29-47d2-91f5-4f75878b52bd.png"/>
-<img src="https://user-images.githubusercontent.com/84164408/152340515-48b1c4a1-7146-4302-bae4-8545b5ef3179.png"/>
+<img src="https://user-images.githubusercontent.com/84164408/152341505-41b6a8dc-5067-41e7-9f11-ed3f2b4de77e.png"/>
+<img src="https://user-images.githubusercontent.com/84164408/152341359-6dd41906-1050-4c48-8845-2a0ebf07ac4a.png"/>
 
 ### <<< Jika Ada Masalah Atau Bug DM Aku Aja >>>
 
