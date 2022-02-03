@@ -37,7 +37,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ```
 <br>
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/84164408/152335750-ed0565a5-37e0-43fe-9e9b-8f9ca1c902f5.png)"/>
+<img src="https://user-images.githubusercontent.com/84164408/152335750-ed0565a5-37e0-43fe-9e9b-8f9ca1c902f5.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
