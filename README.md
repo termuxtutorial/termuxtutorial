@@ -11,7 +11,6 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
-<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/htr-tech/track-ip/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/track-ip?color=red&style=flat-square"></a>
 <a href="https://github.com/htr-tech/track-ip/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/track-ip?color=red&style=flat-square"></a>
 <a href="https://github.com/htr-tech/track-ip/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/track-ip?label=Watchers&color=blue&style=flat-square"></a>
