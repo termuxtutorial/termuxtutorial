@@ -14,6 +14,8 @@
 
 ## Installation :
 For Termux :
+* `Termux Khusus Untuk Adnroid`
+* `install dulu kalo belum punya aplikasi termux https://f-droid.org/F-Droid.apk`
 * `apt update`
 * `apt install git curl -y`
 * `git clone https://github.com/termuxtutorial/termuxtutorial.git`
@@ -22,6 +24,10 @@ For Termux :
 * `bash trackip`
 
 Git Bash :
+* `Git Bash Khusus Untuk Pc,Laptop,Cumpoter`
+* `Install Git Bash Dulu`
+* `32 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-32-bit.exe`
+* `64 Bit https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe`
 * `git clone https://github.com/termuxtutorial/termuxtutorial.git`
 * `cd termuxtutorial`
 * `ls`
